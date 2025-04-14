@@ -22,6 +22,7 @@ This bot automates the process of searching for job listings on job platforms.
 |-------------------|----------|-------------|---------------------|
 | Backend Developer | Tel Aviv |   07.04.25  | www...              |
 
+## Disclaimer
 
 This project is provided solely for educational and demonstrative purposes. The author is not affiliated, associated, authorized, endorsed by, or in any way officially connected with any of the websites or companies mentioned or accessed by the code in this repository.
 
