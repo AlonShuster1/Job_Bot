@@ -23,8 +23,10 @@ This bot automates the process of searching for job listings on job platforms.
 | Backend Developer | Tel Aviv |   07.04.25  | www...              |
 
 
-This project was created strictly for educational and demonstration purposes.
+This project is provided solely for educational and demonstrative purposes. The author is not affiliated, associated, authorized, endorsed by, or in any way officially connected with any of the websites or companies mentioned or accessed by the code in this repository.
 
-I am not affiliated with any of the websites referenced or interacted with in this project. The code is intended to showcase web automation concepts using Selenium, and should not be used for unethical or excessive scraping, especially practices that may impact website performance or violate terms of service.
+The code is intended to illustrate concepts in web automation and scripting using Selenium. It must not be used to violate any website’s terms of service, or to perform excessive or unauthorized data extraction, denial-of-service-like behavior, or any form of abusive interaction with third-party services.
 
-I take no responsibility for how others choose to use this code. Any consequences resulting from the misuse of this project are solely the responsibility of the user. Please use it responsibly and legally.
+By using this code, you acknowledge that you do so at your own risk, and that the author shall not be held liable for any damages, legal consequences, or claims arising from the use or misuse of this project.
+
+Users are solely responsible for ensuring that their use of this code is compliant with all applicable laws, regulations, and terms of service of the websites they interact with.
